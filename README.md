@@ -10,7 +10,7 @@ This project uses a custom-trained YOLOv5 model to detect zombies in Minecraft b
 
 The included GUI lets you adjust the delay between hits (to match weapon cooldowns) and distance threshold for when to attack.
 
- 
+  
 ##  Requirements
 
 1. Python 3.x

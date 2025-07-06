@@ -8,7 +8,7 @@
 
 This project uses a custom-trained YOLOv5 model to detect zombies in Minecraft by capturing the game window in real-time. When zombies are detected within a configurable distance, the bot automatically attacks, simulating player input without modifying the game or using any Minecraft API.
 
-The included GUI lets you adjust the delay between hits (to match weapon cooldowns) and distance threshold for when to attack.
+The included GUI lets you adjust the delay between hits (to match weapon cooldowns) and distance threshold for when to attack. 
 
   
 ##  Requirements

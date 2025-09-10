@@ -1,12 +1,14 @@
 
-# Minecraft Zombie YOLOv5 Triggerbot 
+# Minecraft Zombie AI Triggerbot 
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 
 ##  Overview
 
-This project uses a custom-trained YOLOv5 model to detect zombies in Minecraft by capturing the game window in real-time. When zombies are detected within a configurable distance, the bot automatically attacks, simulating player input without modifying the game or using any Minecraft API.
+This project uses a custom-trained YOLOv5 model to detect zombies in Minecraft by capturing the game window in real-time. 
+
+When zombies are detected within a configurable distance, the bot automatically attacks, simulating player input **without** modifying the game or using any Minecraft API.
 
 The included GUI lets you adjust the delay between hits (to match weapon cooldowns) and distance threshold for when to attack. 
 
